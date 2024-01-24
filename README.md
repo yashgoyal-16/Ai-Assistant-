@@ -1,8 +1,3 @@
-<title>Jarvis - Your Personal Assistant</title>
-</head>
-
-<body>
-
   <h1>Jarvis - Your Personal Assistant</h1>
 
   <p>Jarvis is a simple personal assistant script developed in Python that leverages the power of OpenAI's GPT-3.5 Turbo
